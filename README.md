@@ -25,5 +25,5 @@ npm run test
 npm run lint
 ```
 
-![image](http://github.com/heD0ng/xh-ui/raw/master/images/ui.png) 
+![image](http://github.com/heD0ng/H-ui/tree/master/images/ui.png) 
 
