@@ -25,5 +25,5 @@ npm run test
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![image](http://github.com/heD0ng/xh-ui/raw/master/images/ui.png) 
+
