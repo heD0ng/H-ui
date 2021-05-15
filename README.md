@@ -25,5 +25,7 @@ npm run test
 npm run lint
 ```
 
+### 组件效果
+
 ![image](http://github.com/heD0ng/H-ui/tree/master/images/ui.png) 
 
