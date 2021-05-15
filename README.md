@@ -27,5 +27,5 @@ npm run lint
 
 ### 组件效果
 
-![image](http://github.com/heD0ng/H-ui/tree/master/images/ui.png) 
+![image](https://github.com/heD0ng/H-ui/blob/master/images/ui.png) 
 
